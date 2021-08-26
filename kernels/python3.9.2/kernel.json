@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/root/.pyenv/versions/3.9.2/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "language": "python",
+ "display_name": "Python 3.9.2"
+}
