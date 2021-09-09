@@ -2,8 +2,8 @@
 
 # Supported tags and respective Dockerfile links
 
- - 1.0-rc-1
- - 1.0-rc-2
+ - [1.0-rc-1](https://github.com/dalmatialab/jupyterlab/blob/1321f8bf4a5faa01bfd7bbb244117396fdf2d865/Dockerfile)
+ - [1.0-rc-2](https://github.com/dalmatialab/jupyterlab/blob/66d2b5e1a9d870fd93bfeaadfcb0a2a65df78a4b/Dockerfile)
 
 # What is JupyterLab ? 
 
