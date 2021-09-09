@@ -3,6 +3,7 @@
 # Supported tags and respective Dockerfile links
 
  - 1.0-rc-1
+ - 1.0-rc-2
 
 # What is JupyterLab ? 
 
@@ -20,6 +21,12 @@ Where:
 
  - `some-jupyter-name` is name you want to assign to your container
  - `tag` is docker image version
+
+## Environment variables
+
+**TZ**
+
+This is *optional* variable. It specifes timezone. Default value is `Europe/Zagreb`.
 
 ## Ports
 
